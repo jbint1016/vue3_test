@@ -14,7 +14,7 @@
 
   <section class="mainSection">
     
-    <div class="sliderPage">
+    <div class="slidePage">
       <a href="#" class="btn_l">&lt;</a>
       <a href="#" class="btn_r">&gt;</a>
       <ul>
