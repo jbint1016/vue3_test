@@ -19,14 +19,50 @@
       <a href="#" class="btn_r">&gt;</a>
       <ul>
         <li class="slider">
-          <h2>Lorem ipsum <br>
-              dolor sit amet,
-          </h2>
-          <p>Lorem ipsum dolor sit amet, consectetur
-    sed do eiusmod tempor incididunt ut
-    labore et dolore magna aliqua.
-          </p>
+            <h2>Lorem ipsum <br>
+                dolor sit amet,
+            </h2>
+            <p>Lorem ipsum dolor sit amet, consectetur
+      sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+            </p> 
         </li>
+        <!-- <li class="slider">
+            <h2>Lorem ipsum <br>
+                dolor sit amet,
+            </h2>
+            <p>Lorem ipsum dolor sit amet, consectetur
+      sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+            </p> 
+        </li>
+        <li class="slider">
+            <h2>Lorem ipsum <br>
+                dolor sit amet,
+            </h2>
+            <p>Lorem ipsum dolor sit amet, consectetur
+      sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+            </p> 
+        </li>
+        <li class="slider">
+            <h2>Lorem ipsum <br>
+                dolor sit amet,
+            </h2>
+            <p>Lorem ipsum dolor sit amet, consectetur
+      sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+            </p> 
+        </li>
+        <li class="slider">
+            <h2>Lorem ipsum <br>
+                dolor sit amet,
+            </h2>
+            <p>Lorem ipsum dolor sit amet, consectetur
+      sed do eiusmod tempor incididunt ut
+      labore et dolore magna aliqua.
+            </p> 
+        </li> -->
       </ul>
     </div>
 
@@ -111,10 +147,11 @@
 //     HelloWorld
 //   }
 // }
+
 </script>
 
 <style>
-#app {
+#app{
   font-family: 'Pretendard';
   /* -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -122,6 +159,7 @@
   color: #2c3e50;
   margin-top: 60px; */
 }
+
 
 @font-face {
     font-family: 'Pretendard-Light';
@@ -288,7 +326,8 @@ ul li, ol li{
 
   .sliderPage{
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../자료/main.png') left top / cover no-repeat;
-    padding: 13.13em 0; margin-bottom: 10.0000em; position: relative;
+    padding: 13.13em 0; 
+    margin-bottom: 10.0000em; position: relative;
   } 
   .sliderPage > a{
     position: absolute; top: 50%;
