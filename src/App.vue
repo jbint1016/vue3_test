@@ -281,14 +281,14 @@ ul li, ol li{
     margin-left: 1.55563em;
   }
   header nav ul li a{
-    display: block; font-size: 0.3125em; font-weight: 700; line-height: 39px;
+    display: block; font-size: 15px; font-weight: 700; line-height: 39px;
     color: black;
   }
 
 
   .sliderPage{
     background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('../자료/main.png') left top / cover no-repeat;
-    padding: 20.3125em 0; margin-bottom: 10.0000em; position: relative;
+    padding: 13.13em 0; margin-bottom: 10.0000em; position: relative;
   } 
   .sliderPage > a{
     position: absolute; top: 50%;
@@ -305,12 +305,12 @@ ul li, ol li{
     max-width: 1440px; margin: 0 auto; 
   }
   .sliderPage ul li h2{
-    color: white; font-size: 1.0625em; font-weight: 900; line-height: 1.3125em;
-    margin-bottom: 4.0625em;
+    color: white; font-size: 58px; font-weight: 900; line-height: 1.3125em;
+    margin-bottom: 45px;
   }
   .sliderPage ul li p{
-    font-size: 1.0625em; font-weight: 400; color: white; line-height: 1.3125em;
-    max-width: 525px;
+    font-size: 27px; font-weight: 400; color: white; line-height: 1.3125em;
+    max-width: 480px;
   }
 
 
@@ -318,7 +318,7 @@ ul li, ol li{
     background-color: white;
   }
   .slide2 ul{
-    max-width: 1440px; margin: 0 auto 150px; 
+    max-width: 1440px; margin: 0 auto 9.38em; 
   }
   .slide2 ul::after{
     content: ''; display: block; clear: both;
@@ -337,30 +337,30 @@ ul li, ol li{
     min-height: 190px; display: block;
   }
   .slide2 ul li figure figcaption{
-    background-color: white; padding: 30px 30px;
+    background-color: white; padding: 1.88em 1.88em;
     box-shadow: 3px 3px 9px rgb(0, 0, 0, 0.2); 
     border-radius: 0 0 5px 5px;
   }
   .slide2 ul li figure figcaption h3{
-    font-size: 18px; font-weight: 900; margin-bottom: 15px;
+    font-size: 30px; font-weight: 900; margin-bottom: 15px;
     max-width: 210px; 
   }
   .slide2 ul li figure figcaption p{
-    font-size: 15px; max-width: 215px; line-height: 15px;
-    margin-bottom: 90px; font-weight: 400;
+    font-size: 20px; max-width: 13.44em; line-height: 20px;
+    margin-bottom: 5.63em; font-weight: 300;
   }
   .slide2 ul li figure figcaption small{
     font-size: 15px; font-weight: 400; color: #bdbdbd;
   }
 
   footer{
-    background-color: #1c1d1c; padding: 115px 0;
+    background-color: #1c1d1c; padding: 7.19em 0;
   }
   footer > div{
     max-width: 1440px; margin: 0 auto;
   }
   footer h2{
-    max-width: 255px; margin-bottom: 30px;
+    max-width: 15.94em; margin-bottom: 30px;
   }
   footer h2 a{
     display: block;
