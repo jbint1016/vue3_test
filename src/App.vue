@@ -15,6 +15,18 @@
   <section class="mainSection">
     
     <div class="sliderPage">
+      <div class="wrapper">
+        <carousel :autoplay="3000" :wrap-around="true">
+          <slide v-for="slide in slides" :key="slide">
+            <div class="carousel__item">
+              <img class="slideImg" src="../자료/main.png" alt="">
+            </div>
+          </slide>
+          <template #addons>
+            <Pagintaion />
+          </template>
+        </carousel>
+      </div>
       <a href="#" class="btn_l">&lt;</a>
       <a href="#" class="btn_r">&gt;</a>
       <ul>
